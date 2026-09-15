@@ -3,9 +3,8 @@
 # QDU Future Hardware
 
 ### 未来战队 · 硬件组
-![](./0B0A2073.jpg)
 极致心之砺往，勇者燃梦未来
-
+![](./0B0A2073.jpg)
 [浏览仓库](https://github.com/orgs/QDU-Future-Hardware/repositories) · [联系我们](mailto:conconcare@outlook.com)
 
 </div>
