@@ -1,3 +1,5 @@
+<div align="center">
+  
 # QDU Future Hardware
 
 ### 未来战队 · 硬件组
