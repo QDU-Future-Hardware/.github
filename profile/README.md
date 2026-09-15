@@ -7,7 +7,6 @@
 
 [浏览仓库](https://github.com/orgs/QDU-Future-Hardware/repositories) · [联系我们](mailto:conconcare@outlook.com)
 
-![](./0B0A2073.jpg)
 
 </div>
 
@@ -48,3 +47,5 @@
 ## 联系
 
 [conconcare@outlook.com](mailto:conconcare@outlook.com)
+
+![](./8b060ece8ef8f721c114a9d3c9161d0a.jpg)
