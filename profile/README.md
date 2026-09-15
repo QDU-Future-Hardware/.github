@@ -1,14 +1,20 @@
 <div align="center">
 
+<img src="./8b060ece8ef8f721c114a9d3c9161d0a.jpg" alt="WEI LAI 战队标志" width="180">
+
 # QDU Future Hardware
 
 ### 未来战队 · 硬件组
+
 极致心之砺往，勇者燃梦未来
 
 [浏览仓库](https://github.com/orgs/QDU-Future-Hardware/repositories) · [联系我们](mailto:conconcare@outlook.com)
 
-
 </div>
+
+<p align="center">
+  <img src="./0B0A2073.jpg" alt="未来战队视觉照片" width="100%">
+</p>
 
 ---
 
@@ -47,5 +53,3 @@
 ## 联系
 
 [conconcare@outlook.com](mailto:conconcare@outlook.com)
-
-![](./8b060ece8ef8f721c114a9d3c9161d0a.jpg)
