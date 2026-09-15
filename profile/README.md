@@ -1,6 +1,6 @@
 <div align="center">
   
-# RM WEILAI Hardware
+# RoboMaster-WEILAI-Hardware
 
 ### 未来战队 · 硬件组
 
